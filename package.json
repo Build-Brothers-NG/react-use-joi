@@ -1,0 +1,28 @@
+{
+  "name": "react-use-joi",
+  "version": "1.0.0",
+  "description": "React use joi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Build-Brothers-NG/react-use-joi.git"
+  },
+  "keywords": [
+    "react",
+    "use",
+    "joi"
+  ],
+  "author": "Usman Hassan",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/Build-Brothers-NG/react-use-joi/issues"
+  },
+  "homepage": "https://github.com/Build-Brothers-NG/react-use-joi#readme",
+  "dependencies": {
+    "joi": "^17.6.0",
+    "react-dom": "^17.0.2"
+  }
+}
